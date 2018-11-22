@@ -9,7 +9,7 @@ Todo..
 [PyTorch](https://pytorch.org/)
 
 * Classify handwritten digits: [MNIST Wikipedia](https://en.wikipedia.org/wiki/MNIST_database)
-  * Source: [mnist.py](source/PyTorch/mnist.py)
+  * Source: [mnist.py](source/PyTorch/mnist.py) (~ 97% Detection accuracy)
 
 ## A. Authors
 
