@@ -8,7 +8,8 @@ Todo..
 
 [PyTorch](https://pytorch.org/)
 
-* [mnist.py](source/PyTorch/mnist.py)
+* Classify handwritten digits: [MNIST Wikipedia](https://en.wikipedia.org/wiki/MNIST_database)
+  * Source: [mnist.py](source/PyTorch/mnist.py)
 
 ## A. Authors
 
