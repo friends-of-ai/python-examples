@@ -6,7 +6,7 @@ Todo..
 
 ## 2. PyTorch Examples
 
-[https://pytorch.org/](PyTorch)
+[PyTorch](https://pytorch.org/)
 
 * [mnist.py](source/PyTorch/mnist.py)
 
